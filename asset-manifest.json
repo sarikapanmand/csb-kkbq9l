@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sarikapanmand.github.io/csb-kkbq9l/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sarikapanmand.github.io/csb-kkbq9l/static/js/main.6e82e1b7.chunk.js",
+    "main.js.map": "https://sarikapanmand.github.io/csb-kkbq9l/static/js/main.6e82e1b7.chunk.js.map",
+    "runtime-main.js": "https://sarikapanmand.github.io/csb-kkbq9l/static/js/runtime-main.3377c613.js",
+    "runtime-main.js.map": "https://sarikapanmand.github.io/csb-kkbq9l/static/js/runtime-main.3377c613.js.map",
+    "static/js/2.b4740f44.chunk.js": "https://sarikapanmand.github.io/csb-kkbq9l/static/js/2.b4740f44.chunk.js",
+    "static/js/2.b4740f44.chunk.js.map": "https://sarikapanmand.github.io/csb-kkbq9l/static/js/2.b4740f44.chunk.js.map",
+    "index.html": "https://sarikapanmand.github.io/csb-kkbq9l/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sarikapanmand.github.io/csb-kkbq9l/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b4740f44.chunk.js.LICENSE.txt": "https://sarikapanmand.github.io/csb-kkbq9l/static/js/2.b4740f44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3377c613.js",
+    "static/js/2.b4740f44.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6e82e1b7.chunk.js"
+  ]
+}
